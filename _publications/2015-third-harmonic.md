@@ -4,7 +4,7 @@ author: "**Fabian Coupette**"
 collection: publications
 category: thesis
 permalink: /publications/2015-third-harmonic
-excerpt: 'My BSc thesis.'
+excerpt: 'My BSc thesis in physics.'
 date: 2015-01-01
 venue: 'University of Konstanz'
 # volume: 101

@@ -1,5 +1,5 @@
 ---
-layout: archive
+# layout: archive
 title: "CV"
 permalink: /cv/
 author_profile: true
@@ -9,56 +9,51 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+## Education
+* 2018–2023: **PhD in Physics** (Dr. rer. nat.), University of Freiburg, DE  
+Dissertation: “Percolation: Connecting the Dots”   
+Grade: *summa cum laude*
+* 2015–2018: **Master of Physics** (M. Sc.), University of Freiburg, DE  
+Grade: 1.4 (Excellent)
+* 2016–2017: **Bachelor of Mathematics** (B. Sc.), University of Freiburg, DE  
+Grade: 1.7 (Good)
+* 2012–2015: **Bachelor of Physics** (B. Sc.), University of Konstanz, DE  
+Grade: 1.2 (Excellent)
+* 2004–2012: Abitur, Grashof Gymnasium, Essen, DE  
+Grade: 1.0 (Very Good – Highest Achievable Grade)
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+## Research experience
+* 2024–Present: Postdoctoral Researcher, School of Mathematics, University of Leeds, UK
+* 2023–2024: Postdoctoral Researcher, Research Group of Statistical Physics of Soft Matter and Complex Systems (Prof. Dr. Tanja Schilling), Institute of Physics, University of Freiburg, DE
+* 2018–2023: Research Associate, Institute of Physics, University of Freiburg, DE
+* 2017–2018: Research Assistant, Institute of Physics, University of Freiburg, DE
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+## Service
+
+* 2023: Journal peer review of articles submitted to Physical Review Letters, Physical Review E, Soft Matter, ACS Nano Materials, and Physica A
+* 2022: Journal peer review of articles submitted to Soft Matter and Physica A
+
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+## Skills
 
-Publications
-======
+* Natural Languages: Fluent in English and German, Advanced Latin and French
+* Programming and Markup Languages: C++, Mathematica, and LaTeX in Daily Usage, Advanced Python and MATLAB, Basic R and Tcl
+* OS/Tools: UNIX, Microsoft Windows; Git, Maple, ESPResSo, LAMMPS
+
+
+<!-- ## Publications
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
+## Talks
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
   
-Teaching
-======
+## Teaching
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+  {% endfor %}</ul> -->
+
