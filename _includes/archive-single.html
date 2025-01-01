@@ -26,21 +26,28 @@
       </div>
     {% endif %}
 
-    <h3 class="archive__item-title" itemprop="headline">
+    <!-- <h3 class="archive__item-title" itemprop="headline">
       {% if post.link %}
         <a href="{{ post.link }}">{{ title }}</a> <a href="{{ base_path }}{{ post.url }}" rel="permalink"><i class="fa fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span></a> 
       {% else %}
         <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a> 
       {% endif %}
-    </h3>
+    </h3> -->
     
-    {% if post.read_time %}
+    <!-- {% if post.read_time %}
       <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</p>
-    {% endif %}
+    {% endif %} -->
 
     {% if post.collection == 'teaching' %}
-          <p> {{ post.type }}, <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
+          <p><b>{{ post.title }},</b> <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }}{% if post.enddate %}–{{ post.enddate | default: "1900-01-01" | date: "%Y" }}{% endif %}</p>
     {% elsif post.collection == 'publications' %}
+        <h3 class="archive__item-title" itemprop="headline">
+          {% if post.link %}
+            <a href="{{ post.link }}">{{ title }}</a> <a href="{{ base_path }}{{ post.url }}" rel="permalink"><i class="fa fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span></a> 
+          {% else %}
+            <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a> 
+          {% endif %}
+        </h3>
           <p>{{ post.author | markdownify | remove: "</p>" }} ({{ post.date | default: "1900-01-01" | date: "%Y" }}). 
           <i>{{ post.venue }}{% if post.volume %} {{ post.volume }}{% if post.issue %}.{{ post.issue}}{% endif %}{% endif %}</i>{% if post.pages %}, {{ post.pages}}{% endif %}. 
           {% if post.special %}<br/><span class="highlight">{{ post.special }}</span>{% endif %}
