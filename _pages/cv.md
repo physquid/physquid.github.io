@@ -22,8 +22,8 @@ Grade: 1.2 (Excellent)
 * 2004–2012: Abitur, Grashof Gymnasium, Essen, DE  
 Grade: 1.0 (Very Good – Highest Achievable Grade)
 
-## Research experience
-* 2024–Present: Postdoctoral Researcher, School of Mathematics, University of Leeds, UK
+## Research Experience
+* 2024–Present: Postdoctoral Researcher, School of Mathematics (Prof. Dr. Daniel J. Read), University of Leeds, UK
 * 2023–2024: Postdoctoral Researcher, Research Group of Statistical Physics of Soft Matter and Complex Systems (Prof. Dr. Tanja Schilling), Institute of Physics, University of Freiburg, DE
 * 2018–2023: Research Associate, Institute of Physics, University of Freiburg, DE
 * 2017–2018: Research Assistant, Institute of Physics, University of Freiburg, DE
@@ -31,6 +31,7 @@ Grade: 1.0 (Very Good – Highest Achievable Grade)
 
 ## Service
 
+* 2024: Journal peer review of articles submitted to Physical Review Letters, Physical Review E and Soft Matter
 * 2023: Journal peer review of articles submitted to Physical Review Letters, Physical Review E, Soft Matter, ACS Nano Materials, and Physica A
 * 2022: Journal peer review of articles submitted to Soft Matter and Physica A
 
