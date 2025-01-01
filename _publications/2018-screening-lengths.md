@@ -2,16 +2,16 @@
 title: "Screening lengths in ionic fluids"
 author: "**Fabian Coupette**, Alpha A Lee, and Andreas Härtel"
 collection: publications
-category: manuscripts
-permalink: /publication/2018-ionic-fluids
+category: journal
+permalink: /publications/2018-ionic-fluids
 excerpt: 'Some one-sentence summary.'
-date: 2018-01-01
+date: 2018-08-14
 venue: 'Physical Review Letters'
 volume: 121
 issue: 7
 pages: '075501'
 # slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-# paperurl: 'http://academicpages.github.io/files/paper1.pdf'
+paperurl: 'https://arxiv.org/pdf/1803.10596'
 # citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
 

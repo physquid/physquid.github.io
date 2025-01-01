@@ -1,9 +1,9 @@
 ---
 title: "Continuum percolation expressed in terms of density distributions"
-author: "**Fabian Coupette**, Andreas Härtel, Tanja Schilling"
+author: "**Fabian Coupette**, Andreas Härtel, and Tanja Schilling"
 collection: publications
-category: manuscripts
-permalink: /publication/2020-density-distributions
+category: journal
+permalink: /publications/2020-continuum-percolation
 excerpt: 'Some one-sentence summary.'
 date: 2020-01-01
 venue: 'Physical Review E'
@@ -11,7 +11,7 @@ volume: 101
 issue: 6
 pages: '062126'
 # slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-# paperurl: 'http://academicpages.github.io/files/paper1.pdf'
+paperurl: 'https://arxiv.org/pdf/1908.06776'
 # citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
 

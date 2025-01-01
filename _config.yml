@@ -25,7 +25,7 @@ author:
   name             : "Fabian Coupette"
   pronouns         : # example: "she/her"  
   bio              : "Statistical Physics | Soft Matter | Percolation Theory"
-  location         : "UK"
+  location         : "UK / DE"
   employer         : "University of Leeds"
   uri              : # URL
   email            : #"none@example.org" 
@@ -76,12 +76,16 @@ author:
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
-  books:
-    title: 'Books'
-  manuscripts:
+  preprint:
+    title: 'Preprints'
+  journal:
     title: 'Journal Articles'    
-  conferences:
+  conference:
     title: 'Conference Papers'
+  thesis:
+    title: 'Theses'
+  book:
+    title: 'Books'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"

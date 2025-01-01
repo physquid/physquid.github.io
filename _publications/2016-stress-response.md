@@ -2,8 +2,8 @@
 title: "Divergence of the third harmonic stress response to oscillatory strain approaching the glass transition"
 author: "Rabea Seyboldt, Dimitri Merger, **Fabian Coupette**, Miriam Siebenbürger, Matthias Ballauff, Manfred Wilhelm, and Matthias Fuchs"
 collection: publications
-category: manuscripts
-permalink: /publication/2016-stress-response
+category: journal
+permalink: /publications/2016-stress-response
 excerpt: 'Some one-sentence summary.'
 date: 2016-01-01
 venue: 'Soft Matter'
@@ -11,7 +11,7 @@ volume: 12
 issue: 43
 pages: '8825–8832'
 # slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-# paperurl: 'http://academicpages.github.io/files/paper1.pdf'
+paperurl: 'https://pubs.rsc.org/en/content/articlehtml/2016/sm/c6sm01616b'
 # citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
 
