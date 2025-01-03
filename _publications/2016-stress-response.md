@@ -4,7 +4,7 @@ author: "Rabea Seyboldt, Dimitri Merger, **Fabian Coupette**, Miriam Siebenbürg
 collection: publications
 category: journal
 permalink: /publications/2016-stress-response
-excerpt: 'Some one-sentence summary.'
+excerpt: 'We study the nonlinear mechanical susceptibility arising at the third harmonic in the stress response of a colloidal dispersion driven by sinusoidal shear strain combining rheological measurements and mode coupling theory.'
 date: 2016-01-01
 venue: 'Soft Matter'
 volume: 12

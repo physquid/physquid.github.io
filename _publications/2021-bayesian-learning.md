@@ -4,7 +4,7 @@ author: "Penelope Jones, **Fabian Coupette**, Andreas Härtel, and Alpha A Lee"
 collection: publications
 category: journal
 permalink: /publications/2021-bayesian-learning
-excerpt: 'Some one-sentence summary.'
+excerpt: 'We computationally examine the formation of distinct local environments in concentrated electrolytes addressing the notion of ion pairing in the high-density regime.'
 date: 2021-04-07
 venue: 'The Journal of Chemical Physics'
 volume: 154

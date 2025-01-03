@@ -4,7 +4,7 @@ author: "**Fabian Coupette**, Long Zhang, Björn Kuttich, Andrei Chumakov, Steph
 collection: publications
 category: journal
 permalink: /publications/2021-carbon-black
-excerpt: 'Some one-sentence summary.'
+excerpt: 'We study the impact of fractal microstructure of carbon black on the formation of a conductive filler network in elastomer composites.'
 date: 2021-09-28
 venue: 'The Journal of Chemical Physics'
 volume: 155

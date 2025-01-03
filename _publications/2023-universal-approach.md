@@ -4,7 +4,7 @@ author: "**Fabian Coupette** and Tanja Schilling"
 collection: publications
 category: preprint
 permalink: /publications/2023-universal-approach
-excerpt: 'We propose a general mapping of any kind of percolation problem onto a branching process, providing rigorous lower bounds for the percolation threshold.'
+excerpt: 'We propose a general mapping of any kind of connectivity percolation problem onto a branching process, providing rigorous lower bounds for the percolation threshold.'
 date: 2023-08-31
 venue: 'arXiv:2308.16757'
 # volume: 101

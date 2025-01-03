@@ -4,7 +4,7 @@ author: "Andreas Härtel, Moritz Bültmann, and **Fabian Coupette**"
 collection: publications
 category: journal
 permalink: /publications/2023-anomalous-underscreening
-excerpt: 'Some one-sentence summary.'
+excerpt: 'We observe anomalous underscreening in MD simulations of the restricted primitive model and link it to cluster formation.'
 date: 2023-03-09
 venue: 'Physical Review Letters'
 volume: 130

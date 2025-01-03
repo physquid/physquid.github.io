@@ -4,7 +4,7 @@ author: "**Fabian Coupette**, Alpha A Lee, and Andreas Härtel"
 collection: publications
 category: journal
 permalink: /publications/2018-ionic-fluids
-excerpt: 'Some one-sentence summary.'
+excerpt: 'We examine the effect of space-filling solvent on the decay of electrostatic correlations in simple electrolytes.'
 date: 2018-08-14
 venue: 'Physical Review Letters'
 volume: 121

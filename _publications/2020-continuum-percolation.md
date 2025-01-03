@@ -4,7 +4,7 @@ author: "**Fabian Coupette**, Andreas Härtel, and Tanja Schilling"
 collection: publications
 category: journal
 permalink: /publications/2020-continuum-percolation
-excerpt: 'Some one-sentence summary.'
+excerpt: 'We use diagrammatic expansions to provide a general solution to finite-range continuum percolation models in one dimension.'
 date: 2020-01-01
 venue: 'Physical Review E'
 volume: 101

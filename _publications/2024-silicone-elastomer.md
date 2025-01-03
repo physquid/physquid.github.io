@@ -4,7 +4,7 @@ author: "Bettina Zimmer, Bart-Jan Niebuur, Florian Schaefer, **Fabian Coupette**
 collection: publications
 category: preprint
 permalink: /publications/2024-silicone-elastomer
-excerpt: 'Some one-sentence summary.'
+excerpt: 'We study anisotropic conductivity of thin films of carbon black composites induced by the coating mechanism and connect it to network formation in stationary shear flow.'
 date: 2024-07-29
 venue: 'arXiv:2407.20318'
 # volume: 0
