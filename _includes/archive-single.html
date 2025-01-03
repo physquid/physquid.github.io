@@ -49,7 +49,7 @@
           {% endif %}
         </h3>
           <p>{{ post.author | markdownify | remove: "</p>" }} ({{ post.date | default: "1900-01-01" | date: "%Y" }}). 
-          <i>{{ post.venue }}{% if post.volume %} {{ post.volume }}{% if post.issue %}.{{ post.issue}}{% endif %}{% endif %}</i>{% if post.pages %}, {{ post.pages}}{% endif %}. {% if post.paperurl %}<a href=" {{ post.paperurl }} ">PDF</a>{% endif %}
+          <i>{{ post.venue }}{% if post.volume %} {{ post.volume }}{% if post.issue %}.{{ post.issue}}{% endif %}{% endif %}</i>{% if post.pages %}, {{ post.pages}}{% endif %}. {% if post.paperurl %}<a href="{{ post.paperurl }}" target="_blank" rel="noopener noreferrer">PDF</a>{% endif %}
           {% if post.special %}<br/><span class="highlight">{{ post.special }}</span>{% endif %}
           </p>
           
