@@ -37,7 +37,7 @@ layout: default
         {% if page.collection == 'teaching' %}
           <p> {{ page.type }}, <i>{{ page.venue }}</i>, {{ page.date | default: "1900-01-01" | date: "%Y" }} </p>
         {% elsif page.collection == 'publications' %}
-        <p>{{ page.author | markdownify | remove: "</p>" }} ({{ page.date | default: "1900-01-01" | date: "%Y" }}). <i>{{ page.venue }}{% if page.volume %} {{ page.volume }}{% if page.issue %}.{{ page.issue}}{% endif %}{% endif %}</i>{% if page.pages %}, {{ page.pages}}{% endif %}.</p>
+        <p>{{ page.author | markdownify | remove: "</p>" }} ({{ page.date | default: "1900-01-01" | date: "%Y" }}). <i>{{ page.venue }}{% if page.volume %} {{ page.volume }}{% if page.issue %}.{{ page.issue}}{% endif %}{% endif %}</i>{% if page.pages %}, {{ page.pages}}{% endif %}. {% if page.paperurl %}<a href="{{ page.paperurl}}">PDF</a>{% endif %}</p>
         {% if page.special %}<p><span class="highlight">{{ page.special }}</span></p>{% endif %}
           <!-- <p>Published in <i>{{ page.venue }}</i>, {{ page.date | default: "1900-01-01" | date: "%Y" }} </p> -->
         {% elsif page.date %}
