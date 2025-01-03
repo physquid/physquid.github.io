@@ -21,7 +21,7 @@ repository               : "physquid/physquid.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "fabian-coupette.jpg"
   name             : "Fabian Coupette"
   pronouns         : # example: "she/her"  
   bio              : "Statistical Physics | Soft Matter | Percolation Theory"
