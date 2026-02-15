@@ -6,7 +6,7 @@ category: preprint
 permalink: /publications/2025-aggregate-anisotropy
 excerpt: 'We study the impact of the inherent anisoptropy of carbon black (CB) aggregates on the behaviour of sheared suspensions containing CB that serve as a precursor to conductive composite materials.'
 date: 2025-12-20
-#venue: 'Carbon Trends'
+venue: 'arXiv:2512.18490'
 #volume: 23
 #issue: 100623
 # pages: 0
