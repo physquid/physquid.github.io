@@ -1,17 +1,17 @@
 ---
-title: "Flow-induced anisotropy in a carbon black-filled silicone elastomer: electromechanical properties and structure"
+title: "Flow-induced anisotropy in a carbon black-filled silicone elastomer: Weak structural anisotropy causes strong piezoresistive anisotropy"
 author: "Bettina Zimmer, Bart-Jan Niebuur, Florian Schaefer, **Fabian Coupette**, Victor Tänzel, Tanja Schilling, and Tobias Kraus"
 collection: publications
-category: preprint
+category: journal
 permalink: /publications/2024-silicone-elastomer
 excerpt: 'We study anisotropic conductivity of thin films of carbon black composites induced by the coating mechanism and connect it to network formation in stationary shear flow.'
-date: 2024-07-29
-venue: 'arXiv:2407.20318'
-# volume: 0
-# issue: 0
+date: 2026-02-14
+venue: 'Carbon Trends'
+volume: 23
+issue: 100623
 # pages: 0
 # slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: 'https://arxiv.org/pdf/2407.20318'
+paperurl: 'https://doi.org/10.1016/j.cartre.2026.100623'
 # citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
 
