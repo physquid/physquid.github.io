@@ -31,9 +31,10 @@ Grade: 1.0 (Very Good – Highest Achievable Grade)
 
 ## Service
 
-* 2024: Journal peer review of articles submitted to Physical Review Letters, Physical Review E and Soft Matter
-* 2023: Journal peer review of articles submitted to Physical Review Letters, Physical Review E, Soft Matter, ACS Nano Materials, and Physica A
-* 2022: Journal peer review of articles submitted to Soft Matter and Physica A
+* 2025: Peer review for Physical Review X, Physical Review Research, Physical Review E, Europhysics Letters, and Soft Matter
+* 2024: Peer review for Physical Review Letters, Physical Review E and Soft Matter
+* 2023: Peer review for Physical Review Letters, Physical Review E, Soft Matter, ACS Nano Materials, and Physica A
+* 2022: Peer review for Soft Matter and Physica A
 
   
 ## Skills
